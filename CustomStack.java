@@ -87,6 +87,7 @@
         number.push(1);
         number.push(2);
         number.push(3);
+        number.push(4);
 
         // Pop elements from the stack
         System.out.println("Popped element: " + number.pop());
